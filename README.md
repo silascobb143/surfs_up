@@ -7,7 +7,7 @@
 June & December
 * You will notice that June is on average warmer than the month of December
 * June has a mucher higher "low" temperature than December has
-[!github](june_2.PNG)
+![github](june_2.PNG)
 * Lastly June has the higher temperature recorded compared to December
 
 Summary:
